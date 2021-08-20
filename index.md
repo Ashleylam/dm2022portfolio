@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Ashley's Portfolio
 
 You can use the [editor on GitHub](https://github.com/Ashleylam/dm2022portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
