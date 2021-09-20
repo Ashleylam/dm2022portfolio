@@ -2,13 +2,13 @@
 /* This is a comment! Text here will be ignored by the browser. */
 body {
 	font: 100%/1.4 Chalkduster, fantasy, Apple Chancery, cursive;
-     	background-color: #003887;
+     	background-color: #D66DBA;
      	margin: 0;
      	padding: 0;
      	color: #000;
 }
 .homePage {
-	background: #69DBC4;
+	background: #F07AD1;
 }
 .container {
 	width: 100%;
@@ -41,7 +41,7 @@ body {
 	text-align: center;
 }
 .footer {
-	background: #4EC297;
+	background: #FC81DB;
 	margin: 0px;
 	float: left;
 	width: 100%;
@@ -52,7 +52,7 @@ a:link {
      color: #081F9E;
 }
 a:visited {
-     color: #C68C94;
+     color: #72B3B2;
 }
 a:hover, a:active, a:focus { 
      text-decoration: underline;
